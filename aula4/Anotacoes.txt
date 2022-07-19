@@ -1,0 +1,25 @@
+O QUE É FLUTTER? 
+    - framework do dart
+    - compilamento nativo (desenvolvimento para determinado SO)
+
+POR QUE FLUTTER?
+    - hibrido (qualquer plataforma)
+    - customizável
+    - processamento otimizado
+
+PROJETINHO
+    - ctrl + shift + p
+    PASTAS
+    - .dart_tool: ferramentas dart (nao precisa saber muito)
+    - .idea: modulos de execução
+    - pastas de SO: é o que permite a integracao com cada SO
+    - test: literalmente test
+    - pubspec: onde estao todas as infos tanto do flutter quanto do projeto e do vscode
+    - lib: onde vai estar todo o projeto digitavel (criado)
+    - build: construida apos executar o programa. Ele cria pacotes onde estao inseridos os arquivos de instalação do app
+
+WIDGET
+    - componente da estruturação do flutter
+
+PAGINAS
+    - criacao de diversas classes para as paginas e são separadas por pastas (dentro da lib)
