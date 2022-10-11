@@ -1,0 +1,6 @@
+importar o material = usar no android
+divide a imagem alvo em widgets macro
+
+Class util serve para armazenar variaveis que serao muito utilizadas no projeto então por exemplo, ao ivés de ir mudando um valor local a local procurando pelo codigo onde estão esses valores , basta ir na classe utils que você muda tudo de uma vez
+
+ASPECT RATIO -- responsavel pela responsividade de imagens que se adequam ao tamanho da tela proporcionalmente
